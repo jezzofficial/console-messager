@@ -1,3 +1,2 @@
-jezzi:lroot
-kezzi:1
-lizzi:LDlove
+user:pass
+
