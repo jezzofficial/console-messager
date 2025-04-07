@@ -1,2 +1,3 @@
-user:pass
-
+test1:root
+test2:root
+test3:root
